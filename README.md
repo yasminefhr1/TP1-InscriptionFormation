@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/c1c65844-1bf3-40cf-8321-9c2170a78b2d
 
 
 Instructions d'installation :
-- Clonez ce dépôt sur votre machine locale : https://github.com/yasminefhr1/TP1-Inscription.git
+- Clonez ce dépôt sur votre machine locale 
 - Ouvrez le projet dans Android Studio.
 - Lancez l'application sur un émulateur ou un appareil Android physique.
 
